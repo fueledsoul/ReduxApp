@@ -7,7 +7,8 @@ const reactionEmoji = {
     raisingHands:"🙌",
     heart:"❤️",
     rocket:"🚀",
-    eyes:"👀"
+    eyes:"👀",
+    insightfull:"💎"
 }
 
 
